@@ -1,0 +1,2 @@
+javac -encoding utf-8 -cp D:\java_opengauss\postgresql.jar openGaussDemo.java
+java -cp ".;D:\java_opengauss\postgresql.jar" openGaussDemo
